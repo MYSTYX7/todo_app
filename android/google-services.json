@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631925984649",
+    "project_id": "todo-firebase-mystyx",
+    "storage_bucket": "todo-firebase-mystyx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631925984649:android:098ac6c2ae2893197ee558",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631925984649-jc3h6pso0i07h69tghh4n8hm225ndt6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSN6JN_kbxi1rGNfDdSfVFR4xJ6Gtzn7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631925984649-jc3h6pso0i07h69tghh4n8hm225ndt6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
